@@ -17,7 +17,7 @@
 - PPL: 35.4146 
 - BLEU: 11.8181 | 1-gram: 38.4997 | 2-gram: 15.9742 | 3-gram: 7.8286 | 4-gram: 4.0516
 
-### Epoch 2, global step 48000 (in progress)
+### Epoch 2, global step 48,000 (in progress)
 - Loss: 3.3419
 - PPL: 28.2736
 - BLEU: 16.9334 | 1-gram: 49.4387 | 2-gram: 22.5314 | 3-gram: 11.6987 | 4-gram: 6.3093
@@ -27,3 +27,4 @@
     ```bash
     pip install -r requirements.txt
     ```
+
